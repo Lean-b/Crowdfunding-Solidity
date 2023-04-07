@@ -1,6 +1,8 @@
 {
   "name": "hardhat-project",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.8.2"
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.6",
+    "@openzeppelin/contracts": "^4.8.2",
+    "dotenv": "^16.0.3"
   }
 }
